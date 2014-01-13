@@ -1,0 +1,20 @@
+{
+  "name": "base",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/alimobstyle/base",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alimobstyle/base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alimobstyle/base/issues"
+  },
+  "family": "alimobstyle",
+  "spm": {
+    "alias": {},
+    "output": [
+      "base.css"
+    ]
+  }
+}
