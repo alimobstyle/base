@@ -257,16 +257,13 @@ body .fn-hide {
 .ali-flexbox-item:first-child {
     margin-left: 0;
 }
-.ali-grid {
-    overflow: hidden;
-}
 
 
 /*
  * 页面默认基本样式
  */
 body {
-    color: #323232;
+    color: #333;
     background: #f2f2f2;
-    font-family: "Marmelad", "Lucida Grande", Georgia, sans-serif;
+    font-family: Georgia, 'Xin Gothic', 'PT Sans', 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
