@@ -3,6 +3,7 @@
 /*
  * alipay iconfont
  */
+/*
 @font-face{
     font-family:rei;
     src:url(https://i.alipayobjects.com/common/fonts/rei.eot);
@@ -19,6 +20,7 @@
     cursor:default;
     -webkit-font-smoothing:antialiased;
 }
+*/
 
 /* bufix for IE10 */
 @media (max-device-width: 480px) and (orientation: portrait) {
@@ -247,7 +249,7 @@ body .fn-hide {
  * 页面默认基本样式
  */
 body {
-    color: #333;
-    background: #f2f2f2;
-    font-family: Georgia, 'Xin Gothic', 'PT Sans', 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #323232;
+    background: #fff;
+    font-family: "Microsoft Yahei";
 }
